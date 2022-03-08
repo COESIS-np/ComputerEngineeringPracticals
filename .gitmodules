@@ -1,0 +1,18 @@
+[submodule "3rd Semester/BCT074/3rd-sem-Cpp-practical-bct-074"]
+	path = 3rd Semester/BCT074/3rd-sem-Cpp-practical-bct-074
+	url = https://github.com/Sagarmatha-Computer-Club/3rd-sem-Cpp-practical-bct-074.git
+[submodule "4th Semester/BCT074/4th-sem-Data-Structures-Algorithms-bct-074"]
+	path = 4th Semester/BCT074/4th-sem-Data-Structures-Algorithms-bct-074
+	url = https://github.com/Sagarmatha-Computer-Club/4th-sem-Data-Structures-Algorithms-bct-074.git
+[submodule "4th Semester/BCT074/4th-sem-Numerical-Methods-bct-074"]
+	path = 4th Semester/BCT074/4th-sem-Numerical-Methods-bct-074
+	url = https://github.com/Sagarmatha-Computer-Club/4th-sem-Numerical-Methods-bct-074.git
+[submodule "4th Semester/BCT074/4th-Sem-Microprocessor"]
+	path = 4th Semester/BCT074/4th-Sem-Microprocessor
+	url = https://github.com/Sagarmatha-Computer-Club/4th-Sem-Microprocessor.git
+[submodule "7th Semester/BCT074/7th-Semester-All-Lab-bct-074"]
+	path = 7th Semester/BCT074/7th-Semester-All-Lab-bct-074
+	url = https://github.com/Sagarmatha-Computer-Club/7th-Semester-All-Lab-bct-074.git
+[submodule "8th Semester/BCT074/8th-Semester-Lab-bct-074"]
+	path = 8th Semester/BCT074/8th-Semester-Lab-bct-074
+	url = https://github.com/Sagarmatha-Computer-Club/8th-Semester-Lab-bct-074.git
